@@ -1,21 +1,29 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_static_site": false,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "include_slug_in_base": true
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "ivanbrea",
+    "is_private": false,
+    "title": "Annotating Religion: An Audiovisual Corpus of Ritual, Sound, and Spirituality in Golden Age Mexican Cinema",
+    "description": "Two (2) films to be annotated and indexed for audiovisual representations of Catholicism, ritual, sound, sacred space, and religious experience. ",
+    "language": "en",
+    "slug": "thisisverymuchademo",
+    "creator": "ivanbrea",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-10-02T16:41:41.998Z",
+    "updated_at": "2026-10-02T16:41:41.998Z"
   }
 }
